@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @IsaTiosso
-- Just a Student trying to improve your programming skills <3
+Computer Science Student | Interested in Cybersecurity, AI, and IoT | Developing projects in C# and exploring new technologies <3 
 
 <!---
 IsaTiosso/IsaTiosso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
