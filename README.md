@@ -18,8 +18,8 @@
 </p>
 
 <p align="left">
-  <a href="#" title="LinkedIn">
+  <a href="https//www.linkedin.com/in/isabelatiosso" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&Gmailps://www.linkedin.com/in/isabelatiosso/"alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
+  <a href="//www.instagram.com/desenvolvimentosoftware_?igsh=MTlza2ZrZnRzdHo5Mg%3D%3D" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&//www.instagram.com/desenvolvimentosoftware_?igsh=MTlza2ZrZnRzdHo5Mg%3D%3D" alt="Instagram"/></a>
 </p>
