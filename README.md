@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python | C# | Dart | 
+  🦄 Linguagens: Python | C# | Dart 
 </p>
 
 <p align="left">
