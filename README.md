@@ -18,6 +18,8 @@
 </p>
 
 <p align="left">
+  <a href="isabelaxaviertiosso@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=isabelaxaviertiosso@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/isabelatiosso/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&Gmailps://www.linkedin.com/in/isabelatiosso/"alt="LinkedIn"/></a>
   <a href="//www.instagram.com/desenvolvimentosoftware_?igsh=MTlza2ZrZnRzdHo5Mg%3D%3D" title="Instagram">
