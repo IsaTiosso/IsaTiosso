@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python | C# | Dart | HTML | CSS | C++ 
+  🦄 Linguagens: Python | C# | Dart | HTML | CSS | JavaSript | C++ 
 </p>
 
 <p align="left">
