@@ -7,6 +7,7 @@
 
 <p align="left">
   🦄 Linguagens: Python | C# | Flutter | HTML | CSS | JavaSript | C++ 
+  
   💻 Interesses: Desenvolvimento de Software | Análise de Dados | Internet das Coisas (IoT) | Cibersegurança | IA
 </p>
 
